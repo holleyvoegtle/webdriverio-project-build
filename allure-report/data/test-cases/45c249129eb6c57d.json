@@ -1,0 +1,62 @@
+{
+  "uid" : "45c249129eb6c57d",
+  "name" : "Fill all the input fields, submit form and assert success message",
+  "fullName" : "Contact.Fill all the input fields, submit form and assert success message",
+  "historyId" : "851a4d7b16b72b2e9f5745c9ad014a5d",
+  "time" : {
+    "start" : 1643928060975,
+    "stop" : 1643928078929,
+    "duration" : 17954
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Contact"
+  }, {
+    "name" : "testClass",
+    "value" : "Contact"
+  }, {
+    "name" : "testMethod",
+    "value" : "Fill all the input fields, submit form and assert success message"
+  }, {
+    "name" : "package",
+    "value" : "Contact"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "45c249129eb6c57d.json",
+  "parameterValues" : [ "chrome-97.0.4692.71" ]
+}

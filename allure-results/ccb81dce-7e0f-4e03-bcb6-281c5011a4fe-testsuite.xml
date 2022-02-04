@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1643923069059' stop='1643923078934'>
+    <name>Blog</name>
+    <title>Blog</title>
+    <test-cases>
+        <test-case start='1643923069060' status='passed' stop='1643923078933'>
+            <name>Get the list of all Recent Posts &amp; assert the length of each list item > 1 &amp; assert the total count = 4</name>
+            <title>Get the list of all Recent Posts &amp; assert the length of each list item > 1 &amp; assert the total count = 4</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

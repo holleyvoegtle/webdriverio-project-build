@@ -1,0 +1,60 @@
+{
+  "uid" : "c7909ae9a477cfb8",
+  "name" : "Fill all the input fields, submit form and assert success message",
+  "fullName" : "Contact.Fill all the input fields, submit form and assert success message",
+  "historyId" : "f70a504b9942e7b2cf295e090c79753d",
+  "time" : {
+    "start" : 1643923781565,
+    "stop" : 1643923793241,
+    "duration" : 11676
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Contact"
+  }, {
+    "name" : "testClass",
+    "value" : "Contact"
+  }, {
+    "name" : "testMethod",
+    "value" : "Fill all the input fields, submit form and assert success message"
+  }, {
+    "name" : "package",
+    "value" : "Contact"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-96.0.3"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c7909ae9a477cfb8.json",
+  "parameterValues" : [ "firefox-96.0.3" ]
+}

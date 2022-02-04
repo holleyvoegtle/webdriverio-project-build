@@ -1,0 +1,70 @@
+{
+  "uid" : "ae54fded4ec1d1e",
+  "name" : "Get the text of all menu items & assert them - using wait commands",
+  "fullName" : "Navigation Menu.Get the text of all menu items & assert them - using wait commands",
+  "historyId" : "8b09120e10c7de450c08a4570f7e3ff2",
+  "time" : {
+    "start" : 1643924871954,
+    "stop" : 1643924872430,
+    "duration" : 476
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Navigation Menu"
+  }, {
+    "name" : "testClass",
+    "value" : "Navigation Menu"
+  }, {
+    "name" : "testMethod",
+    "value" : "Get the text of all menu items & assert them - using wait commands"
+  }, {
+    "name" : "package",
+    "value" : "Navigation Menu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-96.0.3"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1a14cd1759c84052",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643924593070,
+        "stop" : 1643924593708,
+        "duration" : 638
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ae54fded4ec1d1e.json",
+  "parameterValues" : [ "firefox-96.0.3" ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "79473886610adb85",
+  "name" : "Get the list of all Recent Posts & assert the length of each list item > 1 & assert the total count = 4",
+  "fullName" : "Blog.Get the list of all Recent Posts & assert the length of each list item > 1 & assert the total count = 4",
+  "historyId" : "488034ca381236e5658b170551f274ad",
+  "time" : {
+    "start" : 1643923069859,
+    "stop" : 1643923077906,
+    "duration" : 8047
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Blog"
+  }, {
+    "name" : "testClass",
+    "value" : "Blog"
+  }, {
+    "name" : "testMethod",
+    "value" : "Get the list of all Recent Posts & assert the length of each list item > 1 & assert the total count = 4"
+  }, {
+    "name" : "package",
+    "value" : "Blog"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-96.0.3"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "79473886610adb85.json",
+  "parameterValues" : [ "firefox-96.0.3" ]
+}

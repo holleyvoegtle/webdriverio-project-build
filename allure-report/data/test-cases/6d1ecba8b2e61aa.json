@@ -1,0 +1,94 @@
+{
+  "uid" : "6d1ecba8b2e61aa",
+  "name" : "Fill all the input fields, submit form and assert success message",
+  "fullName" : "Contact.Fill all the input fields, submit form and assert success message",
+  "historyId" : "c3759c8e0ee2ea21ea3ccdac2fa8e99e",
+  "time" : {
+    "start" : 1643926466035,
+    "stop" : 1643926491703,
+    "duration" : 25668
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expect $(`[role=\"alert\"]`) to have text containing\n                \n                Expected: \"Thank you for contacting us! We will be in touch with you shortly\"\n                Received: \"Thanks for contacting us! We will be in touch with you shortly\"",
+  "statusTrace" : "Error: Expect $(`[role=\"alert\"]`) to have text containing\n                \n                Expected: \"Thank you for contacting us! We will be in touch with you shortly\"\n                Received: \"Thanks for contacting us! We will be in touch with you shortly\"\n                    at Context.<anonymous> (/Users/holleyvoegtle/Desktop/Projects for CCCareers/wdio-course/test/specs/contact.js:22:36)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expect $(`[role=\"alert\"]`) to have text containing\n                \n                Expected: \"Thank you for contacting us! We will be in touch with you shortly\"\n                Received: \"Thanks for contacting us! We will be in touch with you shortly\"",
+    "statusTrace" : "Error: Expect $(`[role=\"alert\"]`) to have text containing\n                \n                Expected: \"Thank you for contacting us! We will be in touch with you shortly\"\n                Received: \"Thanks for contacting us! We will be in touch with you shortly\"\n                    at Context.<anonymous> (/Users/holleyvoegtle/Desktop/Projects for CCCareers/wdio-course/test/specs/contact.js:22:36)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "265dc774878b81cf",
+      "name" : "Screenshot",
+      "source" : "265dc774878b81cf.png",
+      "type" : "image/png",
+      "size" : 1014156
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Contact"
+  }, {
+    "name" : "testClass",
+    "value" : "Contact"
+  }, {
+    "name" : "testMethod",
+    "value" : "Fill all the input fields, submit form and assert success message"
+  }, {
+    "name" : "package",
+    "value" : "Contact"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "82fdc06711be9431",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643923780733,
+        "stop" : 1643923796635,
+        "duration" : 15902
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "6d1ecba8b2e61aa.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}

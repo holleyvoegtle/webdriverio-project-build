@@ -1,0 +1,179 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Get the list of all Recent Posts & assert the length of each list item > 1 & assert the total count = 4",
+    "uid" : "47dfe2d00a2988fa",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1643923069060,
+      "stop" : 1643923078933,
+      "duration" : 9873
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-97.0.4692.99" ]
+  }, {
+    "name" : "Get the list of all Recent Posts & assert the length of each list item > 1 & assert the total count = 4",
+    "uid" : "79473886610adb85",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1643923069859,
+      "stop" : 1643923077906,
+      "duration" : 8047
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "firefox-96.0.3" ]
+  }, {
+    "name" : "Navigation",
+    "children" : [ {
+      "name" : "Get the text of all menu items & assert them",
+      "uid" : "579331223167a4c4",
+      "parentUid" : "0e3c709c74cf4c6a317ec19089925dbc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643924867477,
+        "stop" : 1643924873553,
+        "duration" : 6076
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "Get the text of all menu items & assert them",
+      "uid" : "b5f88690f27c3db6",
+      "parentUid" : "0e3c709c74cf4c6a317ec19089925dbc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643924868668,
+        "stop" : 1643924871953,
+        "duration" : 3285
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-96.0.3" ]
+    } ],
+    "uid" : "0e3c709c74cf4c6a317ec19089925dbc"
+  }, {
+    "name" : "Get the text of all menu items & assert them - using wait commands",
+    "uid" : "ae54fded4ec1d1e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1643924871954,
+      "stop" : 1643924872430,
+      "duration" : 476
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "firefox-96.0.3" ]
+  }, {
+    "name" : "Get the text of all menu items & assert them - using wait commands",
+    "uid" : "161dd0745d4565a0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1643924873553,
+      "stop" : 1643924876457,
+      "duration" : 2904
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-97.0.4692.99" ]
+  }, {
+    "name" : "Fill all the input fields, submit form and assert success message",
+    "uid" : "6d1ecba8b2e61aa",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1643926466035,
+      "stop" : 1643926491703,
+      "duration" : 25668
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-97.0.4692.99" ]
+  }, {
+    "name" : "Fill all the input fields, submit form and assert success message",
+    "uid" : "26d3695bc3c5101d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1643926466843,
+      "stop" : 1643926488339,
+      "duration" : 21496
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : true,
+    "parameters" : [ "firefox-96.0.3" ]
+  }, {
+    "name" : "Fill all the input fields, submit form and assert success message",
+    "uid" : "45c249129eb6c57d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1643928060975,
+      "stop" : 1643928078929,
+      "duration" : 17954
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-97.0.4692.71" ]
+  }, {
+    "name" : "Fill all the input fields, submit form and assert success message",
+    "uid" : "4780fffbf1542136",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1643928064497,
+      "stop" : 1643928090495,
+      "duration" : 25998
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "firefox-96.0" ]
+  } ],
+  "name" : "behaviors"
+}

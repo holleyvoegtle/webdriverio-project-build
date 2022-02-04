@@ -1,0 +1,62 @@
+{
+  "uid" : "47dfe2d00a2988fa",
+  "name" : "Get the list of all Recent Posts & assert the length of each list item > 1 & assert the total count = 4",
+  "fullName" : "Blog.Get the list of all Recent Posts & assert the length of each list item > 1 & assert the total count = 4",
+  "historyId" : "edd40b83ead578ed75043f1fa25da081",
+  "time" : {
+    "start" : 1643923069060,
+    "stop" : 1643923078933,
+    "duration" : 9873
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Blog"
+  }, {
+    "name" : "testClass",
+    "value" : "Blog"
+  }, {
+    "name" : "testMethod",
+    "value" : "Get the list of all Recent Posts & assert the length of each list item > 1 & assert the total count = 4"
+  }, {
+    "name" : "package",
+    "value" : "Blog"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "47dfe2d00a2988fa.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}

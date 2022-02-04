@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1643924588818' stop='1643924598000'>
+    <name>Navigation Menu</name>
+    <title>Navigation Menu</title>
+    <test-cases>
+        <test-case start='1643924588819' status='passed' stop='1643924595257'>
+            <name>Get the text of all menu items &amp; assert them</name>
+            <title>Get the text of all menu items &amp; assert them</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='feature' value='Navigation'/>
+                <label name='severity' value='critical'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1643924595258' status='passed' stop='1643924597999'>
+            <name>Get the text of all menu items &amp; assert them - using wait commands</name>
+            <title>Get the text of all menu items &amp; assert them - using wait commands</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
